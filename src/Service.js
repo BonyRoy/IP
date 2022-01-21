@@ -34,7 +34,7 @@ const Services =()=>{
 Web based Software service</h5>
     <p class="card-text">We have received significant attention recently as it is based on a simple yet powerful Service-Oriented Architecture (SOA) that supports easy software interoperability via standard Web service protocols. Many production and research projects have been initiated and carried out, aiming at finding a new way of developing and using software, by major computer and software corporations.</p>
     <p class="card-text">Custom Development ||	Integration || Software Support ||	Staffing</p>
-    <a href="#" class="btn btn-outline-primary">Go somewhere</a>
+    <a href="#" class="btn btn-outline-primary">Go </a>
   </div>
 </div>
 </div>
@@ -47,7 +47,7 @@ Database services</h5>
     <p class="card-text">Database as a services we a focused to realm within the greater field known as SaaS — it’s the delivery of database software and related physical database storage as a service. For something to be categorized as “Database as a Service,”</p>
     <p class="card-text">Custom Development (CR)	|| Functional and Technical Support ||	Business Process Consolidation (BPC) || 
 Database Support ( BASIS) ||	Business Intelligence (BI)	Staffing</p>
-    <a href="#" class="btn btn-outline-primary">Go somewhere</a>
+    <a href="#" class="btn btn-outline-primary">Go </a>
   </div>
 </div>
 </div>                        <div className="col-md-4 col-10 mx-auto">
@@ -57,7 +57,7 @@ Database Support ( BASIS) ||	Business Intelligence (BI)	Staffing</p>
     <h5 class="card-title">IT Infrastructure Management</h5>
     <p class="card-text">Files Operating As demands on the IT infrastructure is rapidly increasing, several companies are looking for a reliable and cost effective means for maintaining their IT applications and systems and optimizing their internal infrastructure management processes.</p>
     <p class="card-text">Hosting of Customer application || Hardware supply</p>
-    <a href="#" class="btn btn-outline-primary">Go somewhere</a>
+    <a href="#" class="btn btn-outline-primary">Go </a>
   </div>
 </div>
 </div>
